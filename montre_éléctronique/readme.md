@@ -2,4 +2,4 @@ Après ma participation au 33ᵉ concours d'innovation en 2018, j'étais obséd�
 
 Cela m’a peut-être poussé à renforcer mes compétences en réalisant des projets plus stimulants. J'ai alors lancé le projet le plus ambitieux et volumineux que j'aie jamais réalisé. Mais en y repensant, je me rends compte que ce n'était pas vraiment la raison, car au départ, mon objectif était simplement de créer un petit appareil discret et compact, qui me permettrait de passer le temps pendant que nous étions appelés sur le terrain de sport pour écouter les discours des dirigeants de l'école.
 
-En y pensant sur le terrain, à un moment donné, j'ai regardé ma montre pour connaître l'heure, et j'ai remarqué qu'il y avait des mots en anglais sur l'écran, que je pouvais apprendre en attendant la fin du discours...
+En y pensant sur le terrain, à un moment donné, j'ai regardé ma montre pour connaître l'heure, et j'ai eu une idée: pourquoi ne pas intégrer les fonctionalités souhaitées dans ma montre.
